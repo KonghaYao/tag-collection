@@ -1,0 +1,14 @@
+{
+    "name": "magic-tags",
+    "version": "2.0.2",
+    "main": "",
+    "description": "",
+    "scripts": {
+        "build:swear": "node ./src/swearFilter.mjs"
+    },
+    "license": "GPL-3.0",
+    "devDependencies": {},
+    "dependencies": {
+        "xlsx": "^0.18.5"
+    }
+}
