@@ -13,6 +13,8 @@ cute face,可爱的脸,9999999,0
 disheveled hair,蓬松头发,9999999,0
 floating glass fragments,飘飞的玻璃碎片,9999999,0
 dark intense shadows,极黑的阴影,9999999,0
+cinematic lighting,电影照明效果,9999999,0
+extremely detailed,非常精细,9999999,0
 1girl,1个女孩,3663973,0
 solo,独奏,3053641,0
 highres,高分辨率,2665721,0
@@ -124,6 +126,7 @@ lying,说谎,269737,0
 censored,审查,266107,0
 grey hair,白发,265804,0
 frilled,褶边,263037,0
+frills,褶边,263037,0
 parted lips,分开的嘴唇,258771,0
 detached sleeves,分离式袖子,257851,0
 one eye closed,一只眼睛闭着,256767,0
@@ -158,7 +161,7 @@ black gloves,黑色手套,199776,0
 elbow gloves,肘部手套,195056,0
 hairclip,发夹,194174,0
 fang,獠牙,191398,0
-striped,条纹,188474,0
+striped,条纹的,188474,0
 midriff,中腹部,187765,0
 puffy sleeves,蓬松的袖子,184313,0
 shiny,闪亮,182139,0
@@ -1364,6 +1367,7 @@ bandaged arm,绷带手臂,14000,0
 video,视频,13983,0
 mouse ears,老鼠耳朵,13976,0
 text focus,文本焦点,13953,0
+sharp focus,强焦点,13953,0
 love live! sunshine!!,爱生活！阳光！！,13941,0
 headpiece,头饰,13928,0
 nose,鼻子,13927,0
@@ -6635,6 +6639,7 @@ bayonetta,刺刀,1232,0
 bloop (gawr gura),bloop (gawr gura),1232,0
 furutaka (kancolle),古隆 (kancolle),1232,0
 hidden eyes,隐藏的眼睛,1232,0
+hidden hands,隐藏的手,1232,0
 jervis (kancolle),杰维斯 (kancolle),1232,0
 radio,收音机,1232,0
 stone lantern,石灯笼,1232,0
@@ -14472,7 +14477,7 @@ yuuki rito,梨藤优树376,376,0
 ars almal,阿尔马尔,375,0
 bed frame,床架,375,0
 boyshort panties,平角内裤,375,1
-film strip,胶片,375,0
+film strip,胶片,375,1
 harunatsu akito,春夏秋藤,375,0
 immobilization,固定,375,0
 kairakuen umenoka,偕乐园梅冈,375,0
@@ -23004,7 +23009,7 @@ sengoku musou 2,战国无双 2,194,0
 shigureru,shigureru,194,0
 snapchat,Snapchat,194,0
 sniper,狙击手,194,0
-strip game,脱衣舞游戏,194,0
+strip game,脱衣舞游戏,194,1
 stupa13a,佛塔13a,194,0
 sunrise stance,日出姿态,194,0
 tamatsukuri misumaru,玉造三丸,194,0
@@ -26723,7 +26728,7 @@ nanahyakuichi middle school uniform,七百一中学制服,157,0
 onineko,鬼子,157,0
 onix,奥尼克斯,157,0
 piko piko hammer,piko piko 锤子,157,0
-power strip,电源板,157,0
+power strip,电源板,157,1
 putama,普塔马,157,0
 rakeru (dokidoki! precure),rakeru (dokidoki! precure),157,0
 raphael kirsten,拉斐尔·克尔斯滕,157,0
