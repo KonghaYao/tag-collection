@@ -20,6 +20,7 @@ disheveled hair,蓬松头发,9999999,0
 floating glass fragments,飘飞的玻璃碎片,9999999,0
 dark intense shadows,极黑的阴影,9999999,0
 cinematic lighting,电影照明效果,9999999,0
+cinematic angle,电影视角,9999999,0
 extremely detailed,非常精细,9999999,0
 The Last Supper,《最后的晚餐》,9999999,0
 1girl,1个女孩,3663973,0
@@ -467,7 +468,7 @@ beret,贝雷帽,56988,0
 thigh boots,大腿靴,56543,0
 leaf,叶,56348,0
 embarrassed,尴尬,56127,0
-pov,pov,55849,0
+pov,主观视角,55849,0
 one side up,一面朝上,55727,0
 back,返回,55550,0
 kirisame marisa,雾雨魔理沙 55498,55498,0
@@ -1007,6 +1008,7 @@ floating hair,浮动的头发,21246,0
 smoke,烟雾,21181,0
 legs up,双腿向上,21136,0
 backlighting,背光,21132,0
+ray tracing,光线追踪,21132,0
 wide hips,宽臀,21100,0
 pencil skirt,铅笔裙,21064,0
 fish,鱼,21051,0
@@ -2239,6 +2241,7 @@ suzuya (kancolle),铃屋 (kancolle),6950,0
 slingshot swimsuit,弹弓泳衣,6938,0
 fate/kaleid liner prisma illya,命运/万花筒班轮 prisma illya,6932,0
 ruins,废墟,6922,0
+building ruins,建筑废墟,6922,0
 animification,动画,6920,0
 summer,夏天,6919,0
 under covers,在封面下,6919,0
@@ -2530,7 +2533,7 @@ egg,鸡蛋,5741,0
 skirt removed,裙子去掉了,5740,0
 fat,脂肪,5736,0
 red theme,红色主题,5734,0
-scroll,滚动,5733,0
+scroll,卷轴场景,5733,0
 lion ears,狮子耳朵,5732,0
 yukikaze (kancolle),雪风 (kancolle),5729,0
 heart earrings,心形耳环,5724,0
@@ -3053,6 +3056,7 @@ moaning,呻吟,4290,0
 traditional bowtie,传统领结,4290,0
 firing,射击,4289,0
 flame,火焰,4289,0
+floating air flame,浮空火焰,4289,0
 flower knight girl,花骑士少女,4288,0
 marnie (pokemon),玛妮（宠物小精灵）,4288,0
 swimsuit pull,拉泳衣,4287,0
@@ -5572,6 +5576,7 @@ makigumo (kancolle),卷云 (kancolle),1638,0
 nachi (kancolle),那智 (kancolle),1638,0
 tatsumaki,龙卷,1638,0
 alarm clock,闹钟,1637,0
+Chronometer clock,闹钟,1637,0
 neptune (neptune series),海王星（海王星系列）,1637,0
 bite mark,咬痕,1636,0
 macross delta,宏指令三角洲,1636,0
@@ -7317,6 +7322,7 @@ molten rock,熔岩,1062,0
 sausage,香肠,1062,0
 schwarz (arknights),施瓦茨（方舟之夜）,1062,0
 shiny legwear,闪亮的裤袜,1062,0
+silky clothes,顺滑的衣服,1062,0
 z23 (azur lane),z23（碧蓝航线）,1062,0
 christmas lights,圣诞灯,1061,0
 dust cloud,尘云,1060,0
