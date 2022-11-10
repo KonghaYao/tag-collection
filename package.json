@@ -7,8 +7,14 @@
         "build:swear": "node ./src/swearFilter.mjs"
     },
     "license": "GPL-3.0",
-    "devDependencies": {},
-    "dependencies": {
-        "xlsx": "^0.18.5"
+    "devDependencies": {
+        "@types/papaparse": "^5.3.5",
+        "husky": "^8.0.2",
+        "papaparse": "^5.3.2"
+    },
+    "husky": {
+        "hooks": {
+            "pre-commit": "pnpm build:swear"
+        }
     }
 }
