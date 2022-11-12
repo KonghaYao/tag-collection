@@ -10,6 +10,12 @@
 2. 违禁词，违禁词库在 data/swearList, 执行脚本自动向 tags.csv 写入 r18 这一列。
 3. 由于历史原因，此项目从 [魔导绪论项目](https://github.com/KonghaYao/ai-tag) 中脱离出来，但是 Issues 还是提交到魔导绪论 Issues 去了。
 
+## 贡献者名单
+
+1. 翻译人员
+
+2. 整理人员
+
 # License 开源证书
 
 GPL 3.0
