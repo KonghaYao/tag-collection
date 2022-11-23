@@ -13,6 +13,7 @@ fill the screen,充满屏幕,9999999,0
 fantasy style,幻想风格,9999999,0
 creative frame design,创意边框设计,9999999,0
 speak arrow symbol,多格人物画,9999999,0
+minimalist-lines,极简线条,9999999,0
 eyelid pull,拉眼皮吐舌鬼脸,9999999,0
 huge clocks,大钟,9999999,0
 cute face,可爱的脸,9999999,0
@@ -137,7 +138,7 @@ multicolored hair,五彩的头发,279707,0
 boots,靴子,278884,0
 lying,躺,269737,0
 censored,审查,266107,0
-grey hair,白发,265804,0
+grey hair,灰发,265804,0
 frilled,褶边,263037,0
 frills,褶边,263037,0
 parted lips,分开的嘴唇,258771,0
@@ -204,7 +205,7 @@ cum,射,153452,1
 2boys,2个男孩,152087,0
 hood,兜帽,151133,0
 idolmaster,偶像大师,150970,0
-sex,GHS,150267,1
+sex,性相关,150267,1
 miniskirt,迷你裙,149972,0
 wide sleeves,宽袖,149085,0
 tongue out,吐舌头,148559,0
@@ -1081,6 +1082,7 @@ idolmaster shiny colors,偶像大师闪亮的颜色,19795,0
 out of frame,出帧,19795,0
 contrapposto,均衡构图的,19788,0
 cropped jacket,短款夹克,19780,0
+safari jacket,旅行夹克,19780,0
 pixel-perfect duplicate,像素完美的副本,19770,0
 legs apart,双腿分开,19747,0
 kaname madoka,要小圆,19709,0
@@ -1715,7 +1717,7 @@ reading,读书,10624,0
 black cape,黑色斗篷,10586,0
 bound wrists,绑定手腕,10575,0
 chestnut mouth,栗子嘴,10548,0
-ganyu (genshin impact),ganyu（原神）,10533,0
+ganyu (genshin impact),甘雨（原神）,10533,0
 ankle boots,踝靴,10524,0
 bangle,手或脚镯,10523,0
 waitress,女服务员,10519,0
@@ -2623,7 +2625,7 @@ yellow bowtie,黄色领结,5456,0
 fur-trimmed gloves,毛边手套,5452,0
 jiangshi,僵尸,5447,0
 power lines,电源线,5443,0
-hu tao (genshin impact),胡涛（原神）,5442,0
+hu tao (genshin impact),胡桃（原神）,5442,0
 pinky out,小指出,5436,0
 \\m/,\\m/,5431,0
 cardcaptor sakura,魔卡少女樱 5431,5431,0
@@ -2637,7 +2639,7 @@ yamato (kancolle),大和 (kancolle),5403,0
 inkling girl,暗示 女孩,5399,0
 miqo'te,兽人,5398,0
 white tank top,白色背心,5398,0
-zhongli (genshin impact),中立（原神）,5393,0
+zhongli (genshin impact),钟离（原神）,5393,0
 panties removed,去除内裤,5392,1
 girl sandwich,女孩三明治,5391,0
 holding stuffed toy,拿着毛绒玩具,5391,0
@@ -2880,7 +2882,7 @@ flag print,旗印,4726,0
 sweating profusely,大汗淋漓,4725,0
 wet panties,湿内裤,4725,1
 ear blush,耳红,4724,0
-mona (genshin impact),莫娜（原神影响）,4719,0
+mona (genshin impact),莫娜（原神）,4719,0
 :|,:|,4717,0
 cu chulainn (fate),cu chulainn (命运),4717,0
 little busters!,小克星！,4717,0
@@ -3008,7 +3010,7 @@ multicolored skin,五彩的皮肤,4429,0
 rosa (pokemon),罗莎（宠物小精灵）,4429,0
 panty & stocking with garterbelt,吊袜带内裤和长袜,4426,0
 purple lips,紫色的嘴唇,4425,0
-keqing (genshin impact),客卿（原神）,4421,0
+keqing (genshin impact),刻晴（原神）,4421,0
 ebifurya,ebifurya,4415,0
 itsumi erika,五海绘里香,4415,0
 bismarck (kancolle),俾斯麦 (kancolle),4412,0
@@ -3117,6 +3119,7 @@ single bare shoulder,单裸肩,4177,0
 peeking out,窥视,4173,0
 jumpsuit,连身衣,4172,0
 skyscraper,摩天大楼,4164,0
+high place,高处,4164,0
 pink sweater,粉色毛衣,4160,0
 electric guitar,电吉他,4158,0
 striped ribbon,条纹丝带,4158,0
@@ -3364,7 +3367,7 @@ white neckerchief,白色围巾,3672,0
 red scrunchie,红色发圈,3670,0
 yellow shorts,黄色短裤,3668,0
 jeanne d'arc (ruler) (fate),jeanne d'arc (统治者) (命运),3663,0
-klee (genshin impact),克莱（原神）,3663,0
+klee (genshin impact),可莉（原神）,3663,0
 tomboy,假小子,3663,0
 blood on hands,手上有血,3660,0
 boy on top,男孩在上面,3657,0
@@ -3414,7 +3417,7 @@ kiso (kancolle),木曾 (kancolle),3590,0
 defeat,击败,3585,0
 shimamura uzuki,岛村小月,3585,0
 green pants,绿色裤子,3584,0
-venti (genshin impact),venti（原神）,3584,0
+venti (genshin impact),温迪（原神）,3584,0
 nekomata okayu,猫又好友,3582,0
 argyle background,菱形背景,3581,0
 fire emblem: the blazing blade,火焰纹章：炽烈之刃,3580,0
@@ -3560,7 +3563,7 @@ lifebuoy,救生圈,3314,0
 gradient eyes,渐变眼,3308,0
 skadi (arknights),斯卡迪（方舟之夜）,3308,0
 pouring,浇注,3306,0
-tartaglia (genshin impact),tartaglia（原神）,3306,0
+tartaglia (genshin impact),达达利亚（原神）,3306,0
 pointing up,向上指,3305,0
 striped pantyhose,条纹连裤袜,3305,0
 doctor (arknights),医生 (arknights),3303,0
@@ -3799,7 +3802,7 @@ slave,奴隶,2999,0
 holding cigarette,拿着香烟,2997,0
 yellow sweater,黄色毛衣,2997,0
 zouri,祖里,2997,0
-eula (genshin impact),eula（原神影响）,2996,0
+eula (genshin impact),优菈（原神）,2996,0
 strapless bikini,无肩带比基尼,2996,0
 takebe saori,武部沙织 2996,2996,0
 paint.net (medium),油漆网（中）,2991,0
@@ -6215,7 +6218,7 @@ german text,德语文本,1384,0
 hand on own leg,手放在自己的腿上,1384,0
 toosaka asagi,大坂朝木,1384,0
 yamamoto souichirou,山本宗一郎,1383,0
-bikini top removed,比基尼上装已移除,1382,0
+bikini top removed,比基尼没有上装,1382,0
 drill locks,钻锁,1382,0
 single pauldron,单肩甲,1382,0
 stiletto heels,细高跟鞋,1382,0
@@ -13790,6 +13793,7 @@ mishou mai,米手麦,405,0
 mousepad (medium),鼠标垫（中）,405,0
 naruse mai,成濑舞,405,0
 oil painting (medium),油画（中）,405,0
+oil painting,油画,405,0
 oven,烤箱,405,0
 price tag,价格标签,405,0
 rachnera arachnera,蛛形纲 蛛形纲,405,0
