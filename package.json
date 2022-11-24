@@ -22,6 +22,7 @@
         "cheerio": "1.0.0-rc.12",
         "fs-extra": "^10.1.0",
         "node-fetch": "^3.3.0",
+        "pica": "^9.0.1",
         "request-libcurl": "^2.3.4"
     }
 }

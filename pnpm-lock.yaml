@@ -8,6 +8,7 @@ specifiers:
   husky: ^8.0.2
   node-fetch: ^3.3.0
   papaparse: ^5.3.2
+  pica: ^9.0.1
   request-libcurl: ^2.3.4
 
 dependencies:
@@ -15,6 +16,7 @@ dependencies:
   cheerio: 1.0.0-rc.12
   fs-extra: 10.1.0
   node-fetch: 3.3.0
+  pica: registry.npmmirror.com/pica/9.0.1
   request-libcurl: registry.npmmirror.com/request-libcurl/2.3.4
 
 devDependencies:
@@ -614,6 +616,12 @@ packages:
       path-is-absolute: registry.npmmirror.com/path-is-absolute/1.0.1
     dev: false
 
+  registry.npmmirror.com/glur/1.1.2:
+    resolution: {integrity: sha512-l+8esYHTKOx2G/Aao4lEQ0bnHWg4fWtJbVoZZT9Knxi01pB8C80BR85nONLFwkkQoFRCmXY+BUcGZN3yZ2QsRA==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/glur/-/glur-1.1.2.tgz}
+    name: glur
+    version: 1.1.2
+    dev: false
+
   registry.npmmirror.com/graceful-fs/4.2.10:
     resolution: {integrity: sha512-9ByhssR2fPVsNZj478qUUbKfmL0+t5BDVyjShtyZZLiK7ZDAArFFfopyOTj0M05wE2tJPisA4iTnnXl2YoPvOA==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/graceful-fs/-/graceful-fs-4.2.10.tgz}
     name: graceful-fs
@@ -826,6 +834,15 @@ packages:
     version: 2.1.2
     dev: false
 
+  registry.npmmirror.com/multimath/2.0.0:
+    resolution: {integrity: sha512-toRx66cAMJ+Ccz7pMIg38xSIrtnbozk0dchXezwQDMgQmbGpfxjtv68H+L00iFL8hxDaVjrmwAFSb3I6bg8Q2g==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/multimath/-/multimath-2.0.0.tgz}
+    name: multimath
+    version: 2.0.0
+    dependencies:
+      glur: registry.npmmirror.com/glur/1.1.2
+      object-assign: registry.npmmirror.com/object-assign/4.1.1
+    dev: false
+
   registry.npmmirror.com/nan/2.15.0:
     resolution: {integrity: sha512-8ZtvEnA2c5aYCZYd1cvgdnU6cqwixRoYg70xPLWUws5ORTa/lnw+u4amixRS/Ac5U5mQVgp9pnlSUnbNWFaWZQ==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/nan/-/nan-2.15.0.tgz}
     name: nan
@@ -944,6 +961,17 @@ packages:
     resolution: {integrity: sha512-7EAHlyLHI56VEIdK57uwHdHKIaAGbnXPiw0yWbarQZOKaKpvUIgW0jWRVLiatnM+XXlSwsanIBH/hzGMJulMow==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/performance-now/-/performance-now-2.1.0.tgz}
     name: performance-now
     version: 2.1.0
+    dev: false
+
+  registry.npmmirror.com/pica/9.0.1:
+    resolution: {integrity: sha512-v0U4vY6Z3ztz9b4jBIhCD3WYoecGXCQeCsYep+sXRefViL+mVVoTL+wqzdPeE+GpBFsRUtQZb6dltvAt2UkMtQ==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/pica/-/pica-9.0.1.tgz}
+    name: pica
+    version: 9.0.1
+    dependencies:
+      glur: registry.npmmirror.com/glur/1.1.2
+      multimath: registry.npmmirror.com/multimath/2.0.0
+      object-assign: registry.npmmirror.com/object-assign/4.1.1
+      webworkify: registry.npmmirror.com/webworkify/1.5.0
     dev: false
 
   registry.npmmirror.com/process-nextick-args/2.0.1:
@@ -1205,6 +1233,12 @@ packages:
     resolution: {integrity: sha512-2JAn3z8AR6rjK8Sm8orRC0h/bcl/DqL7tRPdGZ4I1CjdF+EaMLmYxBHyXuKL849eucPFhvBoxMsflfOb8kxaeQ==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/webidl-conversions/-/webidl-conversions-3.0.1.tgz}
     name: webidl-conversions
     version: 3.0.1
+    dev: false
+
+  registry.npmmirror.com/webworkify/1.5.0:
+    resolution: {integrity: sha512-AMcUeyXAhbACL8S2hqqdqOLqvJ8ylmIbNwUIqQujRSouf4+eUFaXbG6F1Rbu+srlJMmxQWsiU7mOJi0nMBfM1g==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/webworkify/-/webworkify-1.5.0.tgz}
+    name: webworkify
+    version: 1.5.0
     dev: false
 
   registry.npmmirror.com/whatwg-url/5.0.0:
