@@ -10,7 +10,7 @@ export const CSVToJSON = async (path, columns = undefined) => {
             skipEmptyLines: true,
             columns,
             complete(results, file) {
-                console.timeEnd("加载 csv 文件");
+                // console.timeEnd("加载 csv 文件");
                 res(results.data);
             },
         });
