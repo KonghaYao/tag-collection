@@ -14,7 +14,7 @@
     },
     "husky": {
         "hooks": {
-            "pre-commit": "pnpm build:swear && node ./src/refreshJSDelivr.mjs"
+            "pre-push": "pnpm build:swear && node ./src/refreshJSDelivr.mjs"
         }
     },
     "dependencies": {
