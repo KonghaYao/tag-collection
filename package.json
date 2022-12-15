@@ -12,7 +12,7 @@
         "husky": "^8.0.2",
         "md5": "^2.3.0",
         "papaparse": "^5.3.2",
-        "prompt-extractor": "^1.1.1"
+        "prompt-extractor": "1.1.2"
     },
     "husky": {
         "hooks": {
