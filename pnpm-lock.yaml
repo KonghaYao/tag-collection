@@ -7,9 +7,11 @@ specifiers:
   fs-extra: ^10.1.0
   husky: ^8.0.2
   lodash-es: ^4.17.21
+  md5: ^2.3.0
   node-fetch: ^3.3.0
   papaparse: ^5.3.2
   pica: ^9.0.1
+  prompt-extractor: ^1.1.1
   request-libcurl: ^2.3.4
 
 dependencies:
@@ -24,7 +26,9 @@ dependencies:
 devDependencies:
   '@types/papaparse': 5.3.5
   husky: 8.0.2
+  md5: registry.npmmirror.com/md5/2.3.0
   papaparse: 5.3.2
+  prompt-extractor: registry.npmmirror.com/prompt-extractor/1.1.1
 
 packages:
 
@@ -424,6 +428,12 @@ packages:
     version: 0.12.0
     dev: false
 
+  registry.npmmirror.com/charenc/0.0.2:
+    resolution: {integrity: sha512-yrLQ/yVUFXkzg7EDQsPieE/53+0RlaWTs+wBrvW36cyilJ2SaDWfl4Yj7MtLTXleV9uEKefbAGUPv2/iWSooRA==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/charenc/-/charenc-0.0.2.tgz}
+    name: charenc
+    version: 0.0.2
+    dev: true
+
   registry.npmmirror.com/chownr/2.0.0:
     resolution: {integrity: sha512-bIomtDF5KGpdogkLd9VspvFzk9KfpyyGlS8YFVZl7TGPBHL5snIOnxeshwVgPteQ9b4Eydl+pVbIyE1DcvCWgQ==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/chownr/-/chownr-2.0.0.tgz}
     name: chownr
@@ -464,6 +474,19 @@ packages:
     name: core-util-is
     version: 1.0.3
     dev: false
+
+  registry.npmmirror.com/crc-32/0.3.0:
+    resolution: {integrity: sha512-kucVIjOmMc1f0tv53BJ/5WIX+MGLcKuoBhnGqQrgKJNqLByb/sVMWfW/Aw6hw0jgcqjJ2pi9E5y32zOIpaUlsA==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/crc-32/-/crc-32-0.3.0.tgz}
+    name: crc-32
+    version: 0.3.0
+    engines: {node: '>=0.8'}
+    dev: true
+
+  registry.npmmirror.com/crypt/0.0.2:
+    resolution: {integrity: sha512-mCxBlsHFYh9C+HVpiEacem8FEBnMXgU9gy4zmNC+SXAZNB/1idgp/aulFJ4FgCi7GPEVbfyng092GqL2k2rmow==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/crypt/-/crypt-0.0.2.tgz}
+    name: crypt
+    version: 0.0.2
+    dev: true
 
   registry.npmmirror.com/dashdash/1.14.1:
     resolution: {integrity: sha512-jRFi8UDGo6j+odZiEpjazZaWqEal3w/basFjQHQEwVtZJGDpxbH1MeYluwCS8Xq5wmLJooDlMgvVarmWfGM44g==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/dashdash/-/dashdash-1.14.1.tgz}
@@ -692,6 +715,12 @@ packages:
     version: 2.0.4
     dev: false
 
+  registry.npmmirror.com/is-buffer/1.1.6:
+    resolution: {integrity: sha512-NcdALwpXkTm5Zvvbk7owOUSvVvBKDgKP5/ewfXEznmQFfs4ZRmanOeKBTjRVjka3QFoN6XJ+9F3USqfHqTaU5w==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/is-buffer/-/is-buffer-1.1.6.tgz}
+    name: is-buffer
+    version: 1.1.6
+    dev: true
+
   registry.npmmirror.com/is-fullwidth-code-point/1.0.0:
     resolution: {integrity: sha512-1pqUqRjkhPJ9miNq9SwMfdvi6lBJcd6eFxvfaivQhaH3SgisfiuudvFntdKOmxuee/77l+FPjKrQjWvmPjWrRw==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/is-fullwidth-code-point/-/is-fullwidth-code-point-1.0.0.tgz}
     name: is-fullwidth-code-point
@@ -784,6 +813,16 @@ packages:
     dependencies:
       semver: registry.npmmirror.com/semver/6.3.0
     dev: false
+
+  registry.npmmirror.com/md5/2.3.0:
+    resolution: {integrity: sha512-T1GITYmFaKuO91vxyoQMFETst+O71VUPEU3ze5GNzDm0OWdP8v1ziTaAEPUr/3kLsY3Sftgz242A1SetQiDL7g==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/md5/-/md5-2.3.0.tgz}
+    name: md5
+    version: 2.3.0
+    dependencies:
+      charenc: registry.npmmirror.com/charenc/0.0.2
+      crypt: registry.npmmirror.com/crypt/0.0.2
+      is-buffer: registry.npmmirror.com/is-buffer/1.1.6
+    dev: true
 
   registry.npmmirror.com/mime-db/1.52.0:
     resolution: {integrity: sha512-sPU4uV7dYlvtWJxwwxHD0PuihVNiE7TyAbQ5SWxDCB9mUYvOgroQOwYQQOKPJ8CIbE+1ETVlOoK1UC2nU3gYvg==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/mime-db/-/mime-db-1.52.0.tgz}
@@ -982,11 +1021,42 @@ packages:
       webworkify: registry.npmmirror.com/webworkify/1.5.0
     dev: false
 
+  registry.npmmirror.com/png-chunk-text/1.0.0:
+    resolution: {integrity: sha512-DEROKU3SkkLGWNMzru3xPVgxyd48UGuMSZvioErCure6yhOc/pRH2ZV+SEn7nmaf7WNf3NdIpH+UTrRdKyq9Lw==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/png-chunk-text/-/png-chunk-text-1.0.0.tgz}
+    name: png-chunk-text
+    version: 1.0.0
+    dev: true
+
+  registry.npmmirror.com/png-chunks-extract/1.0.0:
+    resolution: {integrity: sha512-ZiVwF5EJ0DNZyzAqld8BP1qyJBaGOFaq9zl579qfbkcmOwWLLO4I9L8i2O4j3HkI6/35i0nKG2n+dZplxiT89Q==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/png-chunks-extract/-/png-chunks-extract-1.0.0.tgz}
+    name: png-chunks-extract
+    version: 1.0.0
+    dependencies:
+      crc-32: registry.npmmirror.com/crc-32/0.3.0
+    dev: true
+
+  registry.npmmirror.com/pretty-bytes/6.0.0:
+    resolution: {integrity: sha512-6UqkYefdogmzqAZWzJ7laYeJnaXDy2/J+ZqiiMtS7t7OfpXWTlaeGMwX8U6EFvPV/YWWEKRkS8hKS4k60WHTOg==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/pretty-bytes/-/pretty-bytes-6.0.0.tgz}
+    name: pretty-bytes
+    version: 6.0.0
+    engines: {node: ^14.13.1 || >=16.0.0}
+    dev: true
+
   registry.npmmirror.com/process-nextick-args/2.0.1:
     resolution: {integrity: sha512-3ouUOpQhtgrbOa17J7+uxOTpITYWaGP7/AhoR3+A+/1e9skrzelGi/dXzEYyvbxubEF6Wn2ypscTKiKJFFn1ag==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/process-nextick-args/-/process-nextick-args-2.0.1.tgz}
     name: process-nextick-args
     version: 2.0.1
     dev: false
+
+  registry.npmmirror.com/prompt-extractor/1.1.1:
+    resolution: {integrity: sha512-f0fY11Ij0Cw4coDCmlEdW+TJYdg3unIT9FSq/EYNwWBQ0SPqcBCniSgIdFzEnYBnmD49CnmLcKl4RbBUC82MLw==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/prompt-extractor/-/prompt-extractor-1.1.1.tgz}
+    name: prompt-extractor
+    version: 1.1.1
+    dependencies:
+      png-chunk-text: registry.npmmirror.com/png-chunk-text/1.0.0
+      png-chunks-extract: registry.npmmirror.com/png-chunks-extract/1.0.0
+      pretty-bytes: registry.npmmirror.com/pretty-bytes/6.0.0
+    dev: true
 
   registry.npmmirror.com/psl/1.9.0:
     resolution: {integrity: sha512-E/ZsdU4HLs/68gYzgGTkMicWTLPdAftJLfJFlLUAAKZGkStNU72sZjT66SnMDVOfOWY/YAoiD7Jxa9iHvngcag==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/psl/-/psl-1.9.0.tgz}
