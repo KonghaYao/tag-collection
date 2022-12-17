@@ -6,6 +6,7 @@ best quality,高质量,9999999,0
 masterpiece,杰作,9999999,0
 illustration,插画,9999999,0
 impressionism,印象派,9999999,0
+photorealistic,照片现实画风,9999999,0
 impasto,厚涂,9999999,0
 dynamic angle,动态视角,9999999,0
 storyboards,故事板,9999999,0
@@ -21,14 +22,22 @@ disheveled hair,蓬松头发,9999999,0
 floating glass fragments,飘飞的玻璃碎片,9999999,0
 dark intense shadows,极黑的阴影,9999999,0
 cinematic lighting,电影照明效果,9999999,0
+art of light,艺术打光,9999999,0
+artist style,艺术家画风,9999999,0
 cinematic angle,电影视角,9999999,0
 extremely detailed,非常精细,9999999,0
+extremely detailed cg,CG 风格,9999999,0
+extremely detailed cg unity 8k,3D CG 风格,9999999,0
+4k,4K,9999999,0
+unity creations,Unity 产物,9999999,0
 pure white broken sky,纯白色破碎天空,9999999,0
 a world that shatters like glass,像玻璃一样破碎的世界,9999999,0
 1girl,1个女孩,3663973,0
+1 girl,1个女孩,3663973,0
 solo,一个人,3053641,0
 highres,高分辨率,2665721,0
 long hair,长发,2578970,0
+fluffy hair,散乱的长发,2578970,0
 commentary request,评论请求,2346332,0
 breasts,(露)胸部,2001847,1
 looking at viewer,看着观众,1789449,0
@@ -55,6 +64,7 @@ thighhighs,长筒袜,777397,0
 hat,帽子,767749,0
 gloves,手套,764559,0
 1boy,一个男孩,757275,0
+1 boy,一个男孩,757275,0
 bad id,错误的 ID,755740,0
 long sleeves,长袖,751770,0
 big top sleeves,大顶袖,751770,0
@@ -79,6 +89,10 @@ twintails,双马尾辫,564006,0
 medium breasts,中等大小胸部,556362,1
 commentary,注释,554808,0
 jewelry,珠宝首饰,552567,0
+brass jewelry,黄铜珠宝,552567,0
+brass gear,黄铜齿轮,552567,0
+metal texture,金属纹理,552567,0
+metal carving,金属雕刻,552567,0
 sitting,坐姿,544503,0
 very long hair,超头发,533988,0
 underwear,内衣,531948,1
@@ -88,6 +102,7 @@ nipples,露乳头,512054,1
 pink nipples,粉色乳头,512054,1
 school uniform,校服,508447,0
 high school uniform,高中校服,508447,0
+JK,高中校服,508447,0
 green eyes,绿眼睛,506172,0
 blue hair,蓝色的头发,487376,0
 standing,站姿,473056,0
@@ -123,6 +138,8 @@ greyscale,黑白风格,332310,0
 hetero,异性恋的,327824,0
 white hair,白发,320446,0
 male focus,男性焦点,319559,0
+male,男性,319559,0
+female,女性,319559,0
 heart,心,311429,0
 pantyhose,连裤袜,306703,0
 bikini,比基尼,304061,0
@@ -150,6 +167,7 @@ one eye closed,一只眼睛闭着,256767,0
 outdoors,户外,256217,0
 food,食物,255326,0
 japanese clothes,日本衣服,252160,0
+exquisite cloth,精致的衣服,252160,0
 multiple boys,多个男孩,247835,0
 green hair,绿色的头发,247581,0
 wings,羽翼翅膀,246750,0
@@ -338,6 +356,7 @@ artist request,艺术家请求,85122,0
 plaid,格子图案,84719,0
 torn clothes,撕破的衣服,84717,0
 maid,女仆（装）,84584,0
+maid dress,女仆裙,84584,0
 sleeves past wrists,袖子过手腕,84578,0
 looking to the side,看向一边,84061,0
 by Vincent Van Gogh,文森特·梵高,83760,0
@@ -366,6 +385,8 @@ gradient background,渐变背景,79339,0
 symbol-shaped pupils,符号形瞳孔,79265,0
 fox ears,狐狸耳朵,79230,0
 loli,萝莉,79155,0
+kawaii,可爱的,79155,0
+cute,可爱的,79155,0
 ascot,领巾状领带,78975,0
 short shorts,短裤,78945,0
 dutch angle,荷兰角,78264,0
@@ -658,6 +679,7 @@ undressing,脱衣服,40362,0
 grass,草,40318,0
 crossover,联动,40269,0
 by Paul Cézanne,保罗·塞尚,40230,0
+by Paul Hedley,保罗·亨德利,40230,0
 fire,火,40058,0
 bent over,弯腰/俯身,40036,0
 crown,王冠/花冠,40020,0
@@ -1143,6 +1165,7 @@ pixel-perfect duplicate,像素完美的副本,19770,0
 legs apart,双腿分开,19747,0
 kaname madoka,要小圆,19709,0
 dragon horns,龙角,19707,0
+dragon on the background,龙背景,19707,0
 thong,丁字裤,19660,0
 by Carl Larsson,卡尔·拉森,19660,0
 cake,蛋糕,19557,0
@@ -1281,6 +1304,10 @@ white skin,白皮肤,16938,0
 by Gustav Klimt,古斯塔夫·克里姆特,16890,0
 faceless male,不露面的男性,16879,0
 ghost,鬼魂幽灵,16876,0
+detailed finger,精细的手指,16876,0
+detailed fingers,精细的手指,16876,0
+detailed finger,精细的手,16876,0
+detailed fingers,精细的手,16876,0
 pouch,腰带侧面的小袋子,16875,0
 red scarf,红围巾,16872,0
 rabbit,兔子造型,16867,0
@@ -2561,6 +2588,8 @@ ore no imouto ga konna ni kawaii wake ga nai,ore no imouto ga konna ni kawaii wa
 orange skirt,橙色裙子,6341,0
 earphones,耳机,6340,0
 splashing,飞溅的水,6339,0
+splash ink,墨水飞溅,6339,0
+fluttered detailed color splashs,飘飞的彩色水滴,6339,0
 go-toubun no hanayome,go-toubun 花嫁6335,6335,0
 futon,日式床垫,6331,0
 ringed eyes,眼圈,6326,0
@@ -3101,7 +3130,7 @@ grapes,葡萄,4780,0
 elsword,艾斯之剑,4777,0
 hiiragi kagami,柊镜,4774,0
 by Audrey Kawasaki,奥黛丽·川崎,4770,0
-kobayashi-san chi no maidragon,小林山智之女仆4762,4762,0
+kobayashi-san chi no maidragon,小林家的龙女仆,4762,0
 tatsuta (kancolle),tatsuta (kancolle),4761,0
 darjeeling (girls und panzer),大吉岭（女孩和装甲）,4758,0
 dokidoki! precure,多基多基！预固化剂,4749,0
@@ -4618,6 +4647,7 @@ skates,溜冰鞋,2496,0
 pubic hair peek,阴毛窥视,2494,1
 akigumo (kancolle),秋云 (kancolle),2493,0
 humanoid robot,人形机器人,2493,0
+non-humanoid,非人形,2493,0
 multi-tied hair,多扎头发,2493,0
 narmaya (granblue fantasy),narmaya（碧蓝幻想）,2493,0
 shenhe (genshin impact),神和（原神）,2492,0
