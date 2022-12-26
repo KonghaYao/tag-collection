@@ -1,7 +1,9 @@
 ﻿en,cn,count,r18
 highly detailed,精细,9999999,0
-extremely detailed 8K wallpaper,高级背景修饰词,9999999,0
+extremely detailed 8K wallpaper,高级背景,9999999,0
+extremely detailed cg unity 8k wallpaper,高级 3D 背景,9999999,0
 nsfw,nsfw,9999999,1
+ultra-detailed,极精细,9999999,0
 best quality,高质量,9999999,0
 masterpiece,杰作,9999999,0
 illustration,插画,9999999,0
@@ -32,6 +34,11 @@ extremely detailed cg unity 8k,3D CG 风格,9999999,0
 unity creations,Unity 产物,9999999,0
 pure white broken sky,纯白色破碎天空,9999999,0
 a world that shatters like glass,像玻璃一样破碎的世界,9999999,0
+precise machinery,精细机械风,9999999,0
+mechanical structure,机械结构,9999999,0
+transformation by mechanization,机械化改造,9999999,0
+floating airship above,漂浮飞艇在上方,9999999,0
+best shadow,最好的阴影,9999999,0
 1girl,1个女孩,3663973,0
 1 girl,1个女孩,3663973,0
 solo,一个人,3053641,0
@@ -97,6 +104,7 @@ sitting,坐姿,544503,0
 very long hair,超头发,533988,0
 underwear,内衣,531948,1
 white underwear,白色内衣,531948,1
+striped underwear,条纹内衣,531948,1
 closed mouth,闭嘴,520560,0
 nipples,露乳头,512054,1
 pink nipples,粉色乳头,512054,1
@@ -108,6 +116,7 @@ blue hair,蓝色的头发,487376,0
 standing,站姿,473056,0
 purple eyes,紫色的眼睛,463120,0
 collarbone,锁骨,448824,0
+clavicle,锁骨,448824,0
 panties,内裤,442366,1
 pantsu,内裤,442366,0
 monochrome,单色的,421271,0
@@ -347,6 +356,7 @@ gradient,渐变色的,87228,0
 gun,枪,87224,0
 shiny skin,有光泽的皮肤,87001,0
 crop top,裁剪上衣,86661,0
+sitting on edge,坐在边缘,46661,0
 idolmaster cinderella girls,偶像大师灰姑娘女孩,86230,0
 wrist cuffs,手腕袖口,85732,0
 pillow,枕头,85546,0
@@ -728,6 +738,7 @@ precure,预固化剂,37312,0
 blue ribbon,蓝丝带,37293,0
 girl on top,女孩在上面,37050,0
 curtains,窗帘,37044,0
+curtain,窗帘,37044,0
 white flower,白花,36964,0
 lifted by self,自行举起,36916,0
 pointing,指点,36846,0
@@ -1026,6 +1037,7 @@ side slit,侧开衩,22993,0
 dual persona,双重人格,22931,0
 handgun,手枪,22890,0
 desk,桌子,22846,0
+wooden desk,桌子,22846,0
 camisole,吊带背心,22841,0
 hololive english,hololive 英语,22766,0
 masturbation,手淫/自慰,22662,1
@@ -1306,8 +1318,8 @@ faceless male,不露面的男性,16879,0
 ghost,鬼魂幽灵,16876,0
 detailed finger,精细的手指,16876,0
 detailed fingers,精细的手指,16876,0
-detailed finger,精细的手,16876,0
-detailed fingers,精细的手,16876,0
+detailed hand,精细的手,16876,0
+detailed hands,精细的手,16876,0
 pouch,腰带侧面的小袋子,16875,0
 red scarf,红围巾,16872,0
 rabbit,兔子造型,16867,0
@@ -2059,6 +2071,7 @@ blue leotard,蓝色紧身衣,9003,0
 indian style,印度风格,8991,0
 fishnet pantyhose,渔网连裤袜,8988,0
 painting (medium),绘画（中）,8987,0
+painting,绘画,8987,0
 own hands clasped,双手合十,8985,0
 hibiscus,芙蓉花,8980,0
 alternate eye color,备用眼睛颜色,8974,0
@@ -2089,6 +2102,7 @@ star-shaped pupils,星形瞳孔,8840,0
 one breast out,一个胸部出来,8834,1
 by RHADS,（英国）皇家空军司令部,8830,0
 snowflakes,雪花,8824,0
+fluttred snowflaskes,飘飞的雪花,8824,0
 string,绳子,8816,0
 alternate hair color,备用发色,8815,0
 carrot,胡萝卜,8802,0
@@ -2298,6 +2312,7 @@ after vaginal,做爱后的阴道,7695,1
 looking afar,远远望去,7695,0
 dancing,跳舞,7689,0
 presenting,展示,7679,0
+presenting self,展示自己的身体,7679,0
 presenting hindquarters,呈现后庭后躯,7679,0
 presenting vaginal,呈现小穴,7679,1
 presenting breasts,呈现胸部,7679,1
@@ -2590,6 +2605,7 @@ earphones,耳机,6340,0
 splashing,飞溅的水,6339,0
 splash ink,墨水飞溅,6339,0
 fluttered detailed color splashs,飘飞的彩色水滴,6339,0
+fluttered detailed splashs,飘飞的水滴,6339,0
 go-toubun no hanayome,go-toubun 花嫁6335,6335,0
 futon,日式床垫,6331,0
 ringed eyes,眼圈,6326,0
@@ -2777,6 +2793,7 @@ jaggy lines,锯齿线,5714,0
 chibi inset,Q版小人插图,5713,0
 yuru yuri,尤鲁尤里,5711,0
 dappled sunlight,斑驳的阳光,5709,0
+light leaks,阳光露出,5709,0
 giantess,女巨人/巨大的女性,5708,0
 green vest,绿色背心,5708,0
 hooded cloak,连帽斗篷,5701,0
@@ -6319,6 +6336,8 @@ lysithea von ordelia,丽西娅·冯·奥德利亚,1552,0
 cockpit,驾驶舱,1551,0
 bardiche,巴迪什,1550,0
 ceiling light,吸顶灯,1548,0
+dim light,微光,1548,0
+no light,无光,1548,0
 gloved handjob,戴手套的打手枪,1548,1
 hakos baelz,哈科斯·贝尔茨,1548,0
 hitachi magic wand,日立魔杖,1548,0
@@ -7323,6 +7342,7 @@ by David Ligare,大卫·利加雷,1220,0
 dakimakura (object),dakimakura（对象）,1219,0
 doughnut hair bun,甜甜圈发髻,1219,0
 propeller,螺旋桨,1219,0
+canvas propeller,螺旋桨,1219,0
 sitting on stairs,坐在楼梯上,1219,0
 fangs out,獠牙,1218,0
 countdown,倒数,1217,0
@@ -7642,6 +7662,7 @@ humiliation,羞辱,1138,0
 kuwayama chiyuki,桑山千雪,1138,0
 leather gloves,皮手套,1138,0
 marina (splatoon),码头 (splatoon),1138,0
+wharf,码头,1138,0
 stream,溪流,1138,0
 yes,是的,1138,0
 .live,.live,1137,0
@@ -14730,8 +14751,8 @@ mikagami sou,三神总,405,0
 mishou mai,米手麦,405,0
 mousepad (medium),鼠标垫（中）,405,0
 naruse mai,成濑舞,405,0
-oil painting (medium),油画（中）,405,0
-oil painting,油画,405,0
+oil painting (medium),油画（中）,4050,0
+oil painting,油画,4050,0
 oven,烤箱,405,0
 price tag,价格标签,405,0
 rachnera arachnera,蛛形纲 蛛形纲,405,0
@@ -20109,7 +20130,8 @@ curly brace,花括号,254,0
 dororo (tezuka),dororo (手冢),254,0
 doxy,doxy,254,0
 elona,伊洛娜,254,0
-eyebrows visible through hat,透过帽子可以看到眉毛,254,0
+eyebrows visible through hat,透过帽子可以看到眉毛,1254,0
+eyebrows visible through hair,透过头发可以看到眉毛,1254,0
 fuusuke (fusuke208),fuusuke (fusuke208),254,0
 gacha-m,嘎查-m,254,0
 green322,绿色322,254,0
@@ -38778,7 +38800,8 @@ rosia (show by rock!!),罗西亚（摇滚表演！！）,97,0
 ryu shou,流寿,97,0
 sabamori,鲭守,97,0
 sabotaged condom,被破坏的安全套,97,1
-sailing ship,帆船,97,0
+sailing ship,帆船,1970,0
+sailing boat,帆船,1970,0
 sakura (doors),樱花（门）,97,0
 sakurasaka,樱坂,97,0
 sayama yoshiki,早山佳树,97,0
