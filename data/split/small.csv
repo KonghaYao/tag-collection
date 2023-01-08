@@ -38,6 +38,7 @@ precise machinery,精细机械风,9999999,0
 mechanical structure,机械结构,9999999,0
 transformation by mechanization,机械化改造,9999999,0
 floating airship above,漂浮飞艇在上方,9999999,0
+rococo,洛可可风格,9999999,0
 best shadow,最好的阴影,9999999,0
 1girl,1个女孩,3663973,0
 1 girl,1个女孩,3663973,0
@@ -537,7 +538,7 @@ fangs,獠牙/虎牙,54947,0
 blue background,蓝色背景,54522,0
 non-web source,非网络来源,54429,0
 transparent background,透明背景,54045,0
-highleg,高腿长腿,53992,0
+highleg,高开叉,53992,0
 white bikini,白色比基尼,53835,0
 on side,在旁边,53819,0
 plaid skirt,格子裙,53804,0
@@ -587,6 +588,7 @@ magical girl,魔法少女,49541,0
 eyepatch,海盗眼罩,49445,0
 stuffed toy,毛绒玩具,49145,0
 floral print,花卉印花,49135,0
+floral print pantyhose,印花裤袜,49135,0
 bound,绑缚,49082,0
 wavy mouth,波浪嘴,48870,0
 crossed arms,双臂交叉,48735,0
@@ -720,6 +722,7 @@ x hair ornament,x 发饰,38970,0
 wing collar,翼领,38875,0
 white bow,白色蝴蝶结,38861,0
 on stomach,趴着,38773,0
+grovel,趴着,38773,0
 areolae,乳晕,38762,1
 by Erin Hanson,艾琳·汉森,38540,0
 plant,植物,38524,0
@@ -815,6 +818,7 @@ breast press,压胸,32607,1
 startled,吃惊,32551,0
 single thighhigh,单大腿高,32501,0
 messy hair,凌乱的头发,32467,0
+messy long hair,凌乱的长发,32467,0
 motion lines,运动线,32379,0
 hat bow,帽子蝴蝶结,32288,0
 sheath,护套,32130,0
@@ -865,6 +869,7 @@ pink dress,粉色连衣裙,30103,0
 steam,水蒸气,30085,0
 star (sky),星星（天空）,30067,0
 dog ears,狗耳朵,30060,0
+wolf ears,狼耳朵,30060,0
 peaked cap,顶帽,29880,0
 by Diego Rivera,迭戈·里维拉,29840,0
 demon tail,恶魔尾巴,29795,0
@@ -1104,6 +1109,8 @@ floating hair,浮动的头发,21246,0
 smoke,烟雾,21181,0
 legs up,双腿向上,21136,0
 backlighting,逆光,21132,0
+realistic lighting,真实光照,21132,0
+soft lighting,柔和光照,21132,0
 ray tracing,光线追踪,21132,0
 wide hips,宽臀,21100,0
 pencil skirt,铅笔裙,21064,0
@@ -1121,7 +1128,7 @@ half updo,半髻,20844,0
 neon genesis evangelion,新世纪福音战士,20843,0
 reflection,镜像/倒影,20841,0
 flying,飞行,20835,0
-highleg leotard,高腿紧身连衣裤,20827,0
+highleg leotard,高开叉紧身连衣裤,20827,0
 hood up,戴起兜帽,20761,0
 spot color,专色,20747,0
 panties under pantyhose,连裤袜下的内裤,20745,1
@@ -1260,7 +1267,8 @@ by Sandro Botticelli,桑德罗·波提切利,18220,0
 by Daniel Ridgway Knight,丹尼尔·里奇韦·奈特,18210,0
 shield,盾牌,18171,0
 by Joaquín Sorolla,约阿金·索罗拉,18160,0
-futanari,扶她/雌雄同体,18130,0
+futanari,扶ta/雌雄同体,18130,0
+futa,扶ta,18130,1
 toenails,脚趾甲,18129,0
 thighband pantyhose,绑腿连裤袜,18102,0
 + +,+ +,18099,0
@@ -1270,7 +1278,7 @@ older,较旧的,18082,0
 emphasis lines,强调线,18037,0
 v arms,v 武器,18021,0
 meme,模因,18014,0
-buruma,女式运动紧身短裤,18003,0
+buruma,日式运动短裤,18003,0
 skeb commission,skeb 委员会,17989,0
 female masturbation,女性自慰,17931,1
 light blush,脸微红,17910,0
@@ -1707,7 +1715,7 @@ brown headwear,棕色头饰,12217,0
 pink bikini,粉色比基尼,12210,0
 goatee,山羊胡,12208,0
 black bodysuit,黑色紧身连衣裤,12191,0
-highleg panties,高腿内裤,12174,1
+highleg panties,高开叉内裤,12174,1
 holding clothes,拿着衣服,12172,0
 re:zero kara hajimeru isekai seikatsu,re:zero kara hajimeru isekai seikatsu,12149,0
 floral background,花卉背景,12134,0
@@ -1836,7 +1844,7 @@ guitar,吉他,11037,0
 bridal garter,新娘吊袜带,11030,0
 by Ilya Repin,艾亚·雷平,11030,0
 by Amedeo Modigliani,阿梅代奥·莫迪利亚尼,11000,0
-highleg swimsuit,高腿泳衣,10982,0
+highleg swimsuit,高开叉泳衣,10982,0
 no nose,没有鼻子,10956,0
 wind lift,风升力,10955,0
 holding flower,捧花,10935,0
@@ -2013,6 +2021,7 @@ bridal veil,新娘面纱,9498,0
 pokemon bw,口袋妖怪 bw,9477,0
 ikazuchi (kancolle),ikazuchi (kancolle),9476,0
 bad anatomy,坏解剖,9474,0
+dissection,解剖,9474,0
 open fly,开飞,9473,0
 ragnarok online,仙境传说在线,9471,0
 crown braid,皇冠编织,9466,0
@@ -2082,6 +2091,7 @@ hibiscus,芙蓉花,8980,0
 alternate eye color,备用眼睛颜色,8974,0
 touhou (pc-98),东方 (pc-98),8973,0
 school desk,学校课桌,8966,0
+school corridor,学校过道,8966,0
 print kimono,印花和服,8964,0
 paw print,爪印,8961,0
 abigail williams (fate),阿比盖尔威廉姆斯（命运）,8938,0
@@ -2159,6 +2169,7 @@ star print,星印,8532,0
 holding bag,手提袋,8530,0
 cone hair bun,锥形发髻,8528,0
 office lady,白领女性,8522,0
+ojousama,大小姐,8522,0
 facepaint,面部图案,8521,0
 painter,面部图案,8521,0
 petite,娇小的,8503,0
@@ -2202,6 +2213,7 @@ chinese zodiac,生肖,8270,0
 fire emblem awakening,火徽觉醒,8268,0
 danganronpa v3: killing harmony,弹丸论霸 v3：杀戮和谐,8265,0
 transparent,透明的,8261,0
+transparent underwear,透明的,8261,1
 cum on clothes,射衣服8254,8254,1
 by Anna Razumovskaya,安娜·拉祖莫夫斯卡娅,8250,0
 slippers,拖鞋,8246,0
@@ -2263,7 +2275,7 @@ knee pads,护膝,7993,0
 grey dress,灰色连衣裙,7992,0
 bald,秃头,7983,0
 hand on own head,手放在自己的头上,7978,0
-highleg bikini,高腿比基尼,7974,0
+highleg bikini,高开叉比基尼,7974,0
 image sample,图像样本,7974,0
 giant,巨人巨兽,7938,0
 self fondle,自我抚摸,7938,0
@@ -2404,10 +2416,12 @@ sound effects,音效,7263,0
 star earrings,星星耳环,7256,0
 bandaged leg,包扎腿,7255,0
 multiple persona,多重人格,7252,0
-limited palette,限量调色板,7250,0
+limited palette,限量调色,7250,0
+limited colors,限量调色,7250,0
 by Oleg Oprisco,乌克兰摄影家奥列格,7250,0
 by Yuumei,Yuumei公司,7250,0
 maple leaf,枫叶,7242,0
+maple background,枫叶背景,7242,0
 imminent kiss,即将接吻,7239,0
 mononobe no futo,mononobe no futo,7234,0
 hirasawa yui,平泽结衣,7229,0
@@ -2599,6 +2613,7 @@ cunnilingus,舔阴部,6367,1
 armpit licking,舌交舔阴,6367,0
 white capelet,白色披肩,6365,0
 starry background,星空背景,6362,0
+starry eyes,星空眼睛,6362,0
 maribel hearn,玛丽贝尔赫恩,6357,0
 shorts under skirt,裙下短裤,6357,0
 white rose,白玫瑰,6354,0
@@ -2766,6 +2781,7 @@ by Anton Mauve,安东·莫夫,5800,0
 by Lucian Freud,卢西安·弗洛伊德,5800,0
 asymmetrical gloves,不对称手套,5798,0
 monitor,监视器,5796,0
+computer monitor,电脑屏幕,5796,0
 multiple others,其他多个,5790,0
 ripples,涟漪,5786,0
 atago (kancolle),爱宕 (kancolle),5785,0
@@ -3561,7 +3577,7 @@ lock,锁,3932,0
 yamashiro (kancolle),山城 (kancolle),3931,0
 grabbing another's hair,抓别人的头发,3928,0
 popped collar,立领,3928,0
-reverse trap,反向陷阱,3928,0
+reverse trap,假小子,3928,0
 trap,陷阱,3928,0
 holding strap,固定带,3927,0
 holding ball,持球,3925,0
@@ -3956,7 +3972,7 @@ feet up,脚朝上/抬起脚,3247,0
 silk,丝绸,3247,0
 smokestack,烟囱,3246,0
 lamia,蛇妖(拉弥亚),3243,0
-thong leotard,丁字紧身衣,3242,0
+thong leotard,高叉露背紧身衣,3242,0
 swimming,游泳,3241,0
 half-closed eye,半闭眼,3240,0
 medusa (rider) (fate),美杜莎（骑士）（命运）,3240,0
@@ -4050,7 +4066,7 @@ fate/hollow ataraxia,命运/空心共济失调,3147,0
 paradis military uniform,天堂军服,3146,0
 ear bow,耳弓,3140,0
 bowsette,库巴公主,3139,0
-blue buruma,蓝色布鲁玛,3137,0
+blue buruma,蓝色日式短裤,3137,0
 waist bow,腰弓,3135,0
 sono bisque doll wa koi wo suru,sono bisque 娃娃 wa koi wo suru,3133,0
 banana,香蕉,3132,0
@@ -4127,6 +4143,7 @@ black flower,黑花,3041,0
 pompadour,蓬巴杜,3041,0
 film grain,胶片颗粒,3040,0
 fog,雾气,3040,0
+mist,雾气,3040,0
 by Worthington Whittredge,沃辛顿·惠特里奇,3040,0
 kunai,苦无,3036,0
 wizard hat,巫师帽,3035,0
@@ -4273,7 +4290,7 @@ by Louise Dahl-Wolfe,路易丝·达尔·沃尔夫,2890,0
 cynthia (pokemon),辛西娅 (口袋妖怪),2887,0
 ereshkigal (fate),ereshkigal (命运),2886,0
 kanon (kurogane knights),kanon (黑金骑士),2886,0
-cammy white,佳美白,2885,0
+cammy white,嘉米·怀特,2885,0
 by Amy Judd,艾米·贾德,2880,0
 by Kitagawa Utamaro,喜多川歌麿,2880,0
 by Igor Zenin,伊戈尔·泽宁,2880,0
@@ -5404,6 +5421,7 @@ smell,散发体味,2018,0
 ushiromiya battler,紫宫斗士,2018,0
 cover image,封面图片,2017,0
 hill,山丘,2017,0
+standing on hill,站在山丘,2017,0
 drumsticks,鼓槌,2016,0
 kou hiyoyo,口嗨悠悠,2016,0
 multicolored legwear,五彩裤装,2016,0
