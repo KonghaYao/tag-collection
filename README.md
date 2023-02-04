@@ -20,6 +20,8 @@
 2. 整理合并人员：
    江夏尧
 
+3. [Stable Diffusion V1 Artist Style Studies](https://proximacentaurib.notion.site/e28a4f8d97724f14a784a538b8589e7d?v=42948fd8f45c4d47a0edfc4b78937474) 提供了众多的艺术家标签信息
+
 # License 开源证书
 
 GPL 3.0
