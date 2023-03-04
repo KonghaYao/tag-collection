@@ -1,13 +1,14 @@
 {
     "name": "tag-collection",
-    "version": "2.1.2",
+    "version": "2.1.3",
     "main": "",
     "description": "",
     "files": [
         "data/split/"
     ],
     "scripts": {
-        "build": "node ./src/swearFilter.mjs && node ./src/splitTagsToSmaller.mjs"
+        "build": "node ./src/swearFilter.mjs && node ./src/splitTagsToSmaller.mjs",
+        "prepublish": "pnpm build"
     },
     "license": "GPL-3.0",
     "devDependencies": {
