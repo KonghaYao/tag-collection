@@ -32,6 +32,7 @@
         }
     },
     "dependencies": {
-        "leancloud-storage": "^4.14.0"
+        "leancloud-storage": "^4.14.0",
+        "meilisearch": "^0.31.1"
     }
 }
