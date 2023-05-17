@@ -23,8 +23,7 @@
         "node-fetch": "^3.3.0",
         "papaparse": "^5.3.2",
         "pica": "^9.0.1",
-        "prompt-extractor": "1.1.2",
-        "request-libcurl": "^2.3.4"
+        "prompt-extractor": "1.1.2"
     },
     "husky": {
         "hooks": {
